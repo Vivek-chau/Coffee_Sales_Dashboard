@@ -19,17 +19,17 @@ Features:
 
 Dashboard Overview:
 1. Sales Performance:
-   Total Sales
-   Average Order Value
-   Sales by Product
+   Total Sales,
+   Average Order Value,
+   Sales by Product.
 2. Customer Insights:
-   Total Footfall
-   Orders by Day of the Week
-   Top 5 Products by Sales
+   Total Footfall,
+   Orders by Day of the Week,
+   Top 5 Products by Sales.
 3. Store Analysis:
-   Sales by Location
-   Footfall by Location
-   Revenue Trends
+   Sales by Location,
+   Footfall by Location,
+   Revenue Trends.
 
 Recommendations:
 As per the given data I have discovered some trends which are shown in the Coffee Shop Sales dashboard.
